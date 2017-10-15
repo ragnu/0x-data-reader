@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ragnu/0x-data-reader#readme",
   "dependencies": {
-    "web3": "^1.0.0-beta.23"
+    "web3": "0.19.0"
   }
 }
