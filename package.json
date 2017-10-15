@@ -8,10 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@ragnu.github.com:ragnu/0x-data-reader.git"
+    "url": "git+https://github.com/ragnu/0x-data-reader.git"
   },
   "author": "ragnuresearch@gmail.com",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ragnu/0x-data-reader.git"
+  },
+  "homepage": "https://github.com/ragnu/0x-data-reader#readme",
   "dependencies": {
     "web3": "^1.0.0-beta.23"
   }
